@@ -34,7 +34,7 @@ if (os.ios) {
     // url = "https://apps.apple.com/cn/app//id13910460";
     // location.href = url;
 } else if (os.android) {
-    url = "https://devmodu.com/qiuyin/app-release.apk";
+    url = "https://3244.oss-cn-beijing.aliyuncs.com/app-release.apk";
 } else {
     url = null;
 }
